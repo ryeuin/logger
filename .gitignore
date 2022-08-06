@@ -1,4 +1,4 @@
 # ew who wants those
 node_modules/*
 # typescript is better 
-index.js
+./index.js

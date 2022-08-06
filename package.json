@@ -1,6 +1,6 @@
 {
-	"name": "logger",
-	"version": "1.0.0",
+	"name": "6logger",
+	"version": "1.0.7",
 	"description": "Console logs prettified",
 	"main": "index.js",
 	"repository": "https://github.com/r6nted/logger",
@@ -8,7 +8,7 @@
 	"license": "MIT",
 	"private": false,
 	"scripts": {
-		"test": "ts-node test/index.ts",
+		"test": "node test/index.mjs",
 		"build": "tsc --esModuleInterop --outDir /build"
 	},
 	"devDependencies": {
