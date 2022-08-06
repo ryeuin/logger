@@ -1,7 +1,5 @@
-declare module namespace {
-  export interface RootObject {
-    text: string;
-    type: string;
-    level: number;
-  }
+declare type level = 1 | 2 | 3 | 4 | 5 | 1337;
+declare interface RootObject {
+	text: string;
+	level: number;
 }

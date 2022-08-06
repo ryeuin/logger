@@ -1,2 +1,2 @@
 import { logger } from '../index.js';
-logger('hi');
+logger('hi', 2);
