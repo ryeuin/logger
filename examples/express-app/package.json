@@ -1,0 +1,10 @@
+{
+  "name": "express-app-logger",
+  "version": "1.0.0",
+  "description": "Example app made for @r6nted/logger",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
