@@ -6,8 +6,6 @@ A simple logger that fills all your colorful node.js needs. _Typescript compatib
 
 Logger is a simple, colorful, and lightweight logger. The package is compatible with both typescript and node.js projects.
 
-![](./logger.png)
-
 **[Report a Bug]()**  **[Feature Request]()**  **[NPM]()**
 
 ### Installation
